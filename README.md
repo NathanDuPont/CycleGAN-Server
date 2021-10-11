@@ -13,7 +13,7 @@ The evolution of AI (Artificial Intelligence) technologies has advanced the deve
 
 ## <center>Desired Architecture</center>
 
-This project has been created with the intention of being packaged within a Docker container before production use. Development to the project can be done through this repository, and once completed, [TODO] can be run to generate a Docker Image, and push it to Docker Hub. 
+This project has been created with the intention of being packaged within a Docker container before production use. Development to the project can be done through this repository, and once completed, can be pushed to DockerHub for support on remote systems.
 
 This image can then be obtained with the target exhibit through pulling the latest image (or any other desired tagged image), and running the container to start the application.
 
